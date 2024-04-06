@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying in Kyungpook National University
 - 🌱 I’m currently learning Python programming
 - 👯 I’m looking to collaborate on making games
-- 🤔 I’m looking for help with to design pixel images
+- 🤔 I'm looking for someone to design pixel drawings with
 - 💬 Ask me about anything
 - 📫 How to reach me: my email _ happydog145@gmail.com
 - 😄 Pronouns: he/him

@@ -11,9 +11,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am NOT gay
   
---> see more thing about me
-printf();
-  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happydog145)](https://solved.ac/happydog145)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=happydog145&theme=warm)
 

@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/happydog145/happydog145/blob/main/bg_.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/happydog145/happydog145/blob/main/bg_.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/happydog145/happydog145/blob/main/Github_README/assets/images/bg_inv.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/happydog145/happydog145/blob/main/Github_README/assets/images/bg_.png">
+  <img alt="Shows an background changed as theme." src="https://github.com/happydog145/happydog145/blob/main/Github_README/assets/images/bg_.png">
 </picture>
 
 # Hi there 👋

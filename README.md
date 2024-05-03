@@ -12,7 +12,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: my email _ happydog145@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am NOT gay
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happydog145)](https://solved.ac/happydog145)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=happydog145&theme=warm)
